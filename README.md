@@ -8,10 +8,10 @@ A ideia é solucionar o desafio de identificar e organizar as informações nece
 
 * Como um novo proprietário de loja online, eu quero entender quais produtos são mais populares entre os clientes, para que eu possa estocar esses itens e aumentar minhas vendas.
  
-*Como gerente de e-commerce, eu quero saber quais produtos são frequentemente comprados juntos, para que eu possa criar pacotes de produtos e oferecer descontos em compras combinadas.
+* Como gerente de e-commerce, eu quero saber quais produtos são frequentemente comprados juntos, para que eu possa criar pacotes de produtos e oferecer descontos em compras combinadas.
 
-*Como um profissional de marketing de e-commerce, eu quero entender as preferências dos clientes em termos de preço, marca e categoria, para que eu possa desenvolver campanhas de marketing mais eficazes.
+* Como um profissional de marketing de e-commerce, eu quero entender as preferências dos clientes em termos de preço, marca e categoria, para que eu possa desenvolver campanhas de marketing mais eficazes.
 
-*Como proprietário de loja online, eu quero ter uma visão clara de quais métodos de pagamento e envio são mais convenientes para meus clientes, para que eu possa oferecer essas opções e melhorar a experiência de compra.
+* Como proprietário de loja online, eu quero ter uma visão clara de quais métodos de pagamento e envio são mais convenientes para meus clientes, para que eu possa oferecer essas opções e melhorar a experiência de compra.
 
-*Como um novo vendedor online, eu quero ter acesso a dados de mercado e tendências de consumo, para que eu possa tomar decisões informadas sobre quais produtos vender, como precificá-los e como descrevê-los.
+* Como um novo vendedor online, eu quero ter acesso a dados de mercado e tendências de consumo, para que eu possa tomar decisões informadas sobre quais produtos vender, como precificá-los e como descrevê-los.
