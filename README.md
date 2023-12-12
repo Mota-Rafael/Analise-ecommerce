@@ -1,4 +1,4 @@
-#Análise de Itens mais buscados em E-Commerce
+# Análise de Itens mais buscados em E-Commerce
  
 A análise de uma lista de produtos buscados em e-commerce, a mineração de dados pode ser usada para entender quais produtos são mais populares, quais são frequentemente comprados juntos, quais são as preferências dos clientes em termos de preço, marca, categoria, entre outros. Essas informações podem ser usadas para personalizar a experiência de compra do cliente, otimizar o estoque e a logística, e desenvolver estratégias de marketing mais eficazes.
 
