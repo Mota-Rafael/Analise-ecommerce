@@ -13,3 +13,6 @@ A ideia é solucionar o desafio de identificar e organizar as informações nece
 * Como proprietário de loja online, eu quero ter uma visão clara de quais métodos de pagamento e envio são mais convenientes para meus clientes, para que eu possa oferecer essas opções e melhorar a experiência de compra.
 
 * Como um novo vendedor online, eu quero ter acesso a dados de mercado e tendências de consumo, para que eu possa tomar decisões informadas sobre quais produtos vender, como precificá-los e como descrevê-los.
+
+
+Collab de construção do projeto: https://colab.research.google.com/drive/1JrIMVCSM8DlGgSicYQEfk6N2VsMYUfAi?usp=sharing
