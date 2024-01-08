@@ -15,4 +15,4 @@ A ideia é solucionar o desafio de identificar e organizar as informações nece
 * Como um novo vendedor online, eu quero ter acesso a dados de mercado e tendências de consumo, para que eu possa tomar decisões informadas sobre quais produtos vender, como precificá-los e como descrevê-los.
 
 
-Collab de construção do projeto: https://colab.research.google.com/drive/1JrIMVCSM8DlGgSicYQEfk6N2VsMYUfAi?usp=sharing
+Collab de construção do projeto: https://colab.research.google.com/drive/1lPLBWKE5mU-jWhgTdDNNgfMKGXIbFKRO?usp=sharing
